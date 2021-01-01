@@ -1,5 +1,6 @@
 Portolio Page 
-This site is 
+This site display a variety of projects that each 
+show a different programming skills.
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
